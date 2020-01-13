@@ -61,6 +61,7 @@ module.exports = {
       maxEOF: 1
     }],
     'no-param-reassign': 'off',
+    'no-plusplus': 'off',
     'object-curly-newline': ['off', {
       multiline: true
     }],
